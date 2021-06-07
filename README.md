@@ -46,3 +46,6 @@ When broken down by gender, these findings remain consistent.
 In summary, the bike share program in New York seems to predominantly service commuters in Manhattan throughout the workweek, with most trips lasting no longer than half an hour. Users were primarily male; however, trends in ride duration and usage throughout the week did not vary notably between men, women and those who did not disclose their gender. 
 
 In order to better understand the typical user of this service, further analysis would do well to map out each start and stop station id to visualize the common routes. It would also be helpful to look at differences in usage across age to determine if users are predominantly working adults or perhaps students. A breakdown of age by gender could provide us with a better snapshot of the typical user of the bike-share program that may be compared with Des Moines population data to assess the viability of this service in our market. 
+
+
+[Link to Tableau workbook](https://public.tableau.com/views/bikesharing_16230380615570/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)

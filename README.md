@@ -5,29 +5,29 @@ Our intention is to start a bike-share program for the town of Des Moines,  Iowa
 ## Top Starting Locations
 Analysis of the usage of bike stations for users starting their trips across New York was performed to identify the most popular starting locations within the bike-share program. Trips are visualized as circular markers along with the map (shown below), whose size and colour represent the number of trips counted. It is apparent to see that Manhattan has the most bike activity.
 
-![Top Starting Locations](output/Top Starting Locations.png)
+![Top Starting Locations](output/Top_Starting_Locations.png)
 ## Top Ending Locations
 As you can see below, the spread of usage across New York regarding stations where users ended their trips looks very similar to that of the starting locations. Manhattan remains popular, especially within the city center and along the water's edge. 
 
-![Top Ending Locations](output/Top Ending Locations.png)
+![Top Ending Locations](output/Top_Ending_Locations.png)
 ## Gender Breakdown 
 The sample was broken down by gender and shown to be predominantly male, with a small portion of users not disclosing their gender, as seen below. 
 
-![Gender Breakdown](output/Gender Breakdown.png)
+![Gender Breakdown](output/Gender_Breakdown.png)
 ## Trip Duration
 Within the sample, trips very rarely fell over an hour in duration, with the vast majority remaining under 30 minutes long. 
 
-![Trip Duration](output/Checkout Times.png)
+![Trip Duration](output/Checkout_Times.png)
 
 This trend remains consistent when broken down by gender despite the lower numbers of trips amongst non-male riders. Most trips fell around 5 to 15 minutes long. These findings suggest that bikes are being used for transportation as opposed to leisure.
 
-![Gender Differences in Trip Duration ](output/Checkout Times by Gender.png)
+![Gender Differences in Trip Duration ](output/Checkout_Times_by_Gender.png)
 
 ## User Trips by Gender by Weekday
 
 When looking at weekdays as a whole, this provides a broad overview of usage across the week and shows higher activity between Monday and Friday typically, except for Wednesday. This suggests that transportation usage is likely for users on their commute to and from work; this does not vary across gender. To better understand this trend, we will break down the usage by hour throughout each day. 
 
-![User Trips by Gender by Weekday](output/User Trips by Gender by Weekday.png)
+![User Trips by Gender by Weekday](output/User_Trips_by_Gender_by_Weekday.png)
 
 ## Trips by Weekday per Hour
 
@@ -39,7 +39,7 @@ These findings bolster our theory that users typically rely on the program for t
 
 When broken down by gender, these findings remain consistent.
 
-![Gender Differences in Trips by Weekday per Hour](output/Trips by Gender( Weekday per Hour).png)
+![Gender Differences in Trips by Weekday per Hour](output/Trips_by_Gender_Weekday_per_Hour.png)
 
 
 # Summary
